@@ -1,0 +1,4 @@
+Microcontroller is a system on chip which contain
+a cpu an other peripheral
+like RAM, ROM , io, serial interface, OSC, BUScontrol, TIMER,etc
+
